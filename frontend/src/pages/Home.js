@@ -181,6 +181,14 @@ const Home = () => {
                     View
                   </Button>
                   <Button
+                    onClick={() => navigate(`/take/${survey.id}`)}
+                    size="small"
+                    variant="contained"
+                    color="primary"
+                  >
+                    Take Survey
+                  </Button>
+                  <Button
                     size="small"
                     startIcon={<TableIcon />}
                     onClick={() => navigate(`/surveys/${survey.id}/responses`)}
@@ -249,3 +257,4 @@ const Home = () => {
 };
 
 export default Home;
+
