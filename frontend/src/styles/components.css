@@ -1,0 +1,116 @@
+.survey-form {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.questions-section {
+  margin-top: 2rem;
+}
+
+.question-form {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  border-left: 4px solid #3498db;
+}
+
+.ai-generator {
+  background: #e8f5e8;
+  padding: 1rem;
+  border-radius: 4px;
+  margin-bottom: 2rem;
+}
+
+.question-container {
+  margin-bottom: 2rem; /* spacing between questions */
+}
+
+.analytics-container {
+  margin-bottom: 2rem; /* spacing between analytics blocks */
+}
+
+button {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.survey-list {
+  gap: 1rem;
+}
+
+.survey-card {
+  margin-bottom: 1rem;
+}
+
+
+.generator-controls textarea {
+  margin-bottom: 1rem;
+}
+
+.generator-options {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.response-form {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.question-container {
+  margin-bottom: 2rem;
+}
+
+.question-label {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.analytics-container {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.question-analytics {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border: 1px solid #ecf0f1;
+  border-radius: 4px;
+}
+
+.analytics-bar {
+  margin: 0.5rem 0;
+}
+
+.bar {
+  height: 20px;
+  background-color: #3498db;
+  border-radius: 10px;
+  margin-top: 0.2rem;
+  transition: width 0.3s ease;
+}
+
+.thank-you {
+  text-align: center;
+  padding: 3rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.input-text, .input-rating { width: 100%; max-width: 400px; margin-top: 6px; }
+.input-mc, .input-yn, .input-audio { margin-top: 6px; }
+.required { color: #e74c3c; margin-left: 4px; }
+.error-message { color: #e74c3c; margin-top: 12px; }
+.question-container { margin-bottom: 2rem; }
+.submit-response-btn { margin-top: 1.5rem; }
