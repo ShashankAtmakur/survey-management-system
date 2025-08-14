@@ -110,13 +110,13 @@ This project addresses the Ministry of Statistics & Programme Implementation’s
 
 ## 👥 Team Members
 
-| Role    | Name                        | Email                                         | Phone      | Gender | Enrollment No. |
-|---------|-----------------------------|-----------------------------------------------|------------|--------|---------------|
-| Leader  | JADHAV PRAGATHI             | [j.pragathi10thb@gmail.com](mailto:j.pragathi10thb@gmail.com) | 6281849188 | Female | 23JJ1A0229    |
-| Member  | SAI DATTATHREYA KUSHANAPELLI | [23JJ1A1232@gmail.com](mailto:23JJ1A1232@gmail.com)            | 9652006902 | Male   | 23JJ1A1232    |
-| Member  | Rasamalla Akhila            | [rasamallaakhila68@gmail.com](mailto:rasamallaakhila68@gmail.com) | 7288876869 | Female | 23JJ1A0252    |
-| Member  | Tulasi Adepu                | [Tulasinetha16@gmail.com](mailto:Tulasinetha16@gmail.com)       | 9391356123 | Female | 24JJ5A0501    |
-| Member  | Shashank Atmakur            | [1338shashank@gmail.com](mailto:1338shashank@gmail.com)         | 7842366773 | Male   | 24JJ5A0502    |
+| Role    | Name                        | Enrollment No.|
+|---------|-----------------------------|---------------|
+| Leader  | JADHAV PRAGATHI             | 23JJ1A0229    |
+| Member  | SAI DATTATHREYA KUSHANAPELLI| 23JJ1A1232    |
+| Member  | Rasamalla Akhila            | 23JJ1A0252    |
+| Member  | Tulasi Adepu                | 24JJ5A0501    |
+| Member  | Shashank Atmakur            | 24JJ5A0502    |
 
 ---
 
